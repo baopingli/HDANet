@@ -4,13 +4,9 @@ Official implementation of paper "HDA-Net: Horizontal Deformable Attention Netwo
 
 ------
 
-Paper:
+Paper: [[ACM MM2021]](https://dl.acm.org/doi/abs/10.1145/3474085.3475273)
 
-[[ACM MM2021]](https://dl.acm.org/doi/abs/10.1145/3474085.3475273)
-
-Author:
-
-*Qi Zhang, Xuesong Zhang, Baoping Li, Yuhong Chen, Anlong Ming*
+Authors: *Qi Zhang, Xuesong Zhang, Baoping Li, Yuhong Chen, Anlong Ming*
 
 *Beijing University of Posts and Telecommunications*
 
