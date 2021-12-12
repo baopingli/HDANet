@@ -10,17 +10,9 @@ Paper:
 
 Author:
 
-Qi Zhang,
+*Qi Zhang, Xuesong Zhang, Baoping Li, Yuhong Chen, Anlong Ming*
 
-Xuesong Zhang,
-
-Baoping Li,
-
-Yuhong Chen,
-
-Anlong Ming
-
-Beijing University of Posts and Telecommunications,
+*Beijing University of Posts and Telecommunications*
 
 ## Introduction
 
