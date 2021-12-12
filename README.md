@@ -12,7 +12,7 @@ Author:
 
 Qi Zhang, Xuesong Zhang, Baoping Li, Yuhong Chen, Anlong Ming
 
-Beijing University of Posts and Telecommunications,
+Beijing University of Posts and Telecommunications
 
 ## Introduction
 
